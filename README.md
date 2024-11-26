@@ -60,6 +60,4 @@ I am a passionate and dedicated Full-Stack .NET Developer with a focus on contin
 
 ###
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
