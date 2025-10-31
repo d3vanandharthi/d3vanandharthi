@@ -2,7 +2,7 @@
     Hi there 👋
 </p>
 <p align="center">
-<img src="https://profile-counter.glitch.me/d3vanandharthi/count.svg" alt="Visitor Count"/>
+
 </p>
 <br>
 I am a passionate and dedicated Full-Stack .NET Developer with a focus on continuous learning. With expertise in both front-end and back-end technologies, I strive to deliver exceptional software solutions and always stay ahead in the ever-evolving tech industry.
