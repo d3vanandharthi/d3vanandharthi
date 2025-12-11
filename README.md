@@ -5,8 +5,8 @@
   <br />
   <br />
 
-  <h1>Hi, I'm <span style="color: #58A6FF;">Devanand Harthi</span></h1>
-  <h3>Building Scalable .NET Solutions with AI Integration </h3>
+  <h1>Hi, I'm <span style="color: #58A6FF;">Devanandharthi</span></h1>
+  <h3>Building Scalable .NET Solutions & Cloud Architectures</h3>
 
   <br />
 
@@ -35,12 +35,12 @@
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=d3vanandharthi&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=adbac7&icon_color=58A6FF&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vanandharthi&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=adbac7&langs_count=6" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d3vanandharthi&show_icons=true&bg_color=00000000&hide_border=true&title_color=58A6FF&text_color=adbac7&icon_color=58A6FF&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vanandharthi&layout=compact&bg_color=00000000&hide_border=true&title_color=58A6FF&text_color=adbac7&langs_count=6" height="150" alt="languages" />
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3vanandharthi&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=adbac7&dates=adbac7" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3vanandharthi&background=00000000&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=adbac7&dates=adbac7" alt="streak" />
 
   <br />
   <br />
