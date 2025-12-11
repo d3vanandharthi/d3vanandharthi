@@ -1,55 +1,95 @@
-<p align="left">
-    Hi there 👋
-</p>
-<p align="center">
-
-</p>
-<br>
-I am a passionate and dedicated Full-Stack .NET Developer with a focus on continuous learning. With expertise in both front-end and back-end technologies, I strive to deliver exceptional software solutions and always stay ahead in the ever-evolving tech industry.
-<br>
-<p align="center">
- Socials <br>
-</p>
-<div>
-  <a href="https://www.linkedin.com/in/devanandharthi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/d3vanandharthi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://leetcode.com/u/d3vanandharthi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
-  </a>
-</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3vanandharthi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d3vanandharthi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ 
+ <!-- Dynamic Header -->
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Devanandharthi;Building+Scalable+Solutions;.NET+%26+Full-Stack+Dev" alt="Typing SVG" />
+
+ <br/>
+
+ <!-- Social Badges - Clean & Uniform -->
+ <p align="center">
+   <a href="https://www.linkedin.com/in/devanandharthi/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+   </a>
+   <a href="https://github.com/d3vanandharthi" target="_blank">
+     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+   </a>
+   <a href="https://leetcode.com/u/d3vanandharthi/" target="_blank">
+     <img src="https://img.shields.io/badge/LeetSketch-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+   </a>
+   <a href="mailto:devanandharthi@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+   </a>
+ </p>
+
 </div>
+
+<br/>
+
+<!-- Main Content Grid -->
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+ <tr>
+  <td width="50%" valign="top">
+   
+   ### 👨‍💻 **About Me**
+   
+   I'm a passionate **Full-Stack .NET Developer** focused on crafting efficient, scalable software. I love tackling complex backend challenges and building smooth, responsive front-end experiences.
+
+   - 🔭 I’m currently working on **Enterprise .NET Solutions**
+   - 🌱 I’m currently learning **Advanced Cloud Architecture (Azure)**
+   - ⚡ Fun fact: **I can debug with my eyes closed (mostly)**
+   - 💬 Ask me about **C#, .NET Core, SQL, & System Design**
+
+  </td>
+  <td width="50%" valign="top">
+    
+    ### 🚀 **My Arsenal**
+
+    <div align="left">
+      <!-- Backend -->
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+      <br/>
+      <!-- Frontend -->
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <br/>
+      <!-- Tools -->
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+    </div>
+
+  </td>
+ </tr>
+</table>
+
+<br/>
+
+<!-- Stats Dashboard -->
 <div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  
+  <p>
+    <a href="https://github.com/d3vanandharthi">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=d3vanandharthi&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true" alt="Stats" height="160" />
+    </a>
+    <a href="https://github.com/d3vanandharthi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vanandharthi&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6" alt="Languages" height="160" />
+    </a>
+  </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d3vanandharthi&theme=vision-friendly-dark&hide_border=false)
+  <br/>
 
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3vanandharthi&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </div>
 
+<br/>
 
-###
-
+<!-- Footer -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="42" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" width="42" alt="jira logo"  />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
-
-###
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=d3vanandharthi&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-###
-
