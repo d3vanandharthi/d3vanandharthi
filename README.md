@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Banner](profile_banner_minimalist.png)
+
 
   <br />
   <br />
